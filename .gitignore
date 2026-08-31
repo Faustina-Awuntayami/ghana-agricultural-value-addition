@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# because repo is public, Git ignore folder
+data/raw/
+data/processed/

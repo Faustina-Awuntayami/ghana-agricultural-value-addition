@@ -48,6 +48,13 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# because repo is public, Git ignore folder
+# because repo is public, Git ignore glss dataset
 data/raw/
 data/processed/
+# GLSS datasets
+data/raw/
+data/processed/
+
+# Output files
+outputs/figures/*.png
+outputs/tables/*.csv
